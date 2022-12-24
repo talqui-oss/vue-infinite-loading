@@ -15,10 +15,6 @@
   "sideEffects": [
     "*.vue"
   ],
-  "author": {
-    "name": "PeachScript",
-    "email": "scdzwyxst@gmail.com"
-  },
   "scripts": {
     "serve": "vue-cli-service serve dev/serve.js",
     "build": "cross-env NODE_ENV=production rollup --config build/rollup.config.js",
@@ -43,12 +39,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeachScript/vue-infinite-loading.git"
+    "url": "git+https://github.com/talqui-chat/vue-infinite-loading.git"
   },
   "bugs": {
-    "url": "https://github.com/PeachScript/vue-infinite-loading/issues"
+    "url": "https://github.com/talqui-chat/vue-infinite-loading/issues"
   },
-  "homepage": "https://github.com/PeachScript/vue-infinite-loading",
+  "homepage": "https://github.com/talqui-chat/vue-infinite-loading",
   "dependencies": {
     "mitt": "^3.0.0"
   },
